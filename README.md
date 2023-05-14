@@ -66,7 +66,7 @@ Install/Setup instructions
 1. Install Tampermonkey(or other extension like Greasemonkey, Violentmonkey, etc.)  
 2. Go to dashboard and create new script  
 3. Choose preferred script version based off of descriptions in [VERSIONS](https://github.com/Crunchbits/Mobile-browser-Gestures-Extended-MbGE#versions) table  
-Install preferred script version via Greasy Fork links   
+Install preferred script version via [Greasy Fork links](https://github.com/Crunchbits/Mobile-browser-Gestures-Extended-MbGE#download-via-greasy-fork)   
 
 4. Save and ensure it's enabled  
 5. If testing on old tabs make sure to refresh them for script to run on it  
