@@ -68,6 +68,8 @@ Choose preferred file version based off of descriptions in [VERSIONS](https://gi
     - Video Full screen (Must end with click)  
     - Gesture Penetration  
 
+If wanted use my custom settings from '\MbGE\MyCustom_Settings1.jpg' and '\MbGE\MyCustom_Settings2.jpg'
+
 <h4>
 Gesture Icon Legend:
 </h4>
