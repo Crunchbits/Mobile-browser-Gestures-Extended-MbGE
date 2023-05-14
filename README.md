@@ -6,7 +6,7 @@ Mobile browser Gestures Extended (MbGE)
 
 
 <h4>
-Add customizable touch and swipe gestures to mobile browsers. Recommend using Kiwi browser, Yandex browser and Lemur Browser.
+Add customizable touch and swipe gestures to mobile browsers. Recommended use with Kiwi browser, Yandex browser and Lemur Browser.
 </h4>
 
 - This is primarily an English translation but also offers slight modifications. 
