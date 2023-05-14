@@ -1,0 +1,4 @@
+All contents in this specific folder were done automatically via Google Translate
+Documentation may include function/variable/string names different from translated .js files because those were slightly altered/tailored to make more sense.
+May rewrite this documentation in future to be consistent with actual .js files but currently don't have time.
+Regardless majority of keywords should be the same/super similar, and if not, close enough to connect them to those in chosen script.
