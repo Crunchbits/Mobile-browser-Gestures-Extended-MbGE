@@ -28,8 +28,8 @@ VERSIONS
 <tbody>
   <tr>
     <td>\MbGE\MbGE.js</td>
-    <td>\Translated_to_English\English_Translated.js</td>
-    <td>\Original\Original.js</td>
+    <td>\@Translated_to_English\English_Translated.js</td>
+    <td>\@Original\Original.js</td>
   </tr>
   <tr>
     <td>Custom Modifications include:
