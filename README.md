@@ -78,7 +78,7 @@ Install preferred script version via [Greasy Fork links](https://github.com/Crun
     - Video Full screen (Must end with click)  
     - Gesture Penetration  
 
-If wanted use my custom settings from '\MbGE\MyCustom_Settings1.jpg' and '\MbGE\MyCustom_Settings2.jpg'
+If wanted, use my custom settings from '[\MbGE\MyCustom_Settings1.jpg](https://github.com/Crunchbits/Mobile-browser-Gestures-Extended-MbGE/blob/main/MbGE/MyCustom_Settings1.jpg)' and '[\MbGE\MyCustom_Settings2.jpg](https://github.com/Crunchbits/Mobile-browser-Gestures-Extended-MbGE/blob/main/MbGE/MyCustom_Settings2.jpg)'
 
 <h4>
 Gesture Icon Legend:
