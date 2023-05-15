@@ -234,7 +234,7 @@ Default mapped gestures in MbGE:
   </tr>
   <tr>
     <td>I→↑●</td>
-    <td>Google Image Search</td>
+    <td>Google Image Search [NOT WORKING]</td>
   </tr>
   <tr>
     <td>V→</td>
