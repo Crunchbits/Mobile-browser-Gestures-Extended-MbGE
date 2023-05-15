@@ -310,4 +310,4 @@ Reset Settings
 Even if you replace the script text with the initial script text, the old settings will probably stick.  
 This is because the script is still holding onto it's storage content.  
 
-The easiest way to remove the old settings is to delete the script with the trash bin icon or File/Remove and then re-add the initial script manually.  
+The easiest way to remove the old settings is to delete the script with the trash bin icon or File/Remove and then reinstall the initial script.  
