@@ -85,7 +85,7 @@ Install preferred script version via [Greasy Fork links](https://github.com/Crun
 
 </details>
 
-7. You can click the title of "Gesture track setting" to open the "Function switch setting" interface  
+7. You can click the title of "Gesture track setting" to open the "Function switch settings" interface  
 8. You can modify the settings however you like but can't delete the following:
     - Open Settings  
     - Video Full screen (must end with click)  
