@@ -72,6 +72,8 @@ Install preferred script version via [Greasy Fork links](https://github.com/Crun
 5. If testing on old tabs make sure to refresh them for script to run on it  
 
 6. Slide the "↑→↓←" box gesture to open the [Gesture Track Setting] interface, and you can customize the gesture function  
+
+
 7. You can click the title of "Gesture track setting" to open the "Function switch setting" interface  
 8. You can modify the settings however you like but can't delete the following:
     - Open Settings  
