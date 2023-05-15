@@ -474,7 +474,17 @@ Gesture Icon Legend:
 </table>
   
 </details>
+ 
+<details>
+  <summary><b>How to reset settings</b></summary>
+
+Even if you replace the script text with the initial script text, the old settings will probably stick.  
+This is because the script is still holding onto it's storage content.  
+
+The easiest way to remove the old settings is to delete the script with the trash bin icon or File/Remove and then reinstall the initial script.  
   
+</details>
+ 
 <h2>
 Gesture Functions/UI (MbGE)
 </h2>
@@ -507,12 +517,3 @@ Video:
 `Fast forward playback` `Stop fast forward` `Rewind playback` `Stop rewinding`  
 `Increase volume` `Close increase volume` `Volume down` `Close and reduce volume`  
 `Swipe right progress` `Close right slide progress` `Left slide progress` `Close left slide progress`  
-
-<h2>
-Reset Settings
-</h2>
-
-Even if you replace the script text with the initial script text, the old settings will probably stick.  
-This is because the script is still holding onto it's storage content.  
-
-The easiest way to remove the old settings is to delete the script with the trash bin icon or File/Remove and then reinstall the initial script.  
