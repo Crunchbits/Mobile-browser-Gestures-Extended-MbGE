@@ -73,9 +73,9 @@ Install preferred script version via [Greasy Fork links](https://github.com/Crun
 
 6. Slide the "↑→↓←" box gesture to open the [Gesture Track Setting] interface, and you can customize the gesture function  
 7. You can click the title of "Gesture track setting" to open the "Function switch setting" interface  
-8. You can modify the settings however you like but can't/shouldn't delete the following:
+8. You can modify the settings however you like but can't delete the following:
     - Open Settings  
-    - Video Full screen (Must end with click)  
+    - Video Full screen (must end with click)  
     - Gesture Penetration  
 
 If wanted, use my custom settings from '[\MbGE\MyCustom_Settings1.jpg](https://github.com/Crunchbits/Mobile-browser-Gestures-Extended-MbGE/blob/main/MbGE/MyCustom_Settings1.jpg)' and '[\MbGE\MyCustom_Settings2.jpg](https://github.com/Crunchbits/Mobile-browser-Gestures-Extended-MbGE/blob/main/MbGE/MyCustom_Settings2.jpg)'
@@ -144,6 +144,164 @@ Gesture Icon Legend:
 </tbody>
 </table>
 
+<h4>
+Default mapped gestures in MbGE:
+</h4>
+
+<table>
+<thead>
+  <tr>
+    <th>Gesture</th>
+    <th>Function</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>↑→↓←</td>
+    <td>Open Settings</td>
+  </tr>
+  <tr>
+    <td>◆◆</td>
+    <td>Video full screen</td>
+  </tr>
+  <tr>
+    <td>●</td>
+    <td>Gesture Penetration</td>
+  </tr>
+  <tr>
+    <td>→←</td>
+    <td>Back</td>
+  </tr>
+  <tr>
+    <td>←→</td>
+    <td>Forward</td>
+  </tr>
+  <tr>
+    <td>↓↑</td>
+    <td>Back to top</td>
+  </tr>
+  <tr>
+    <td>↑↓</td>
+    <td>Back to the bottom</td>
+  </tr>
+  <tr>
+    <td>←↓</td>
+    <td>Refresh page</td>
+  </tr>
+  <tr>
+    <td>←↑</td>
+    <td>New page</td>
+  </tr>
+  <tr>
+    <td>→↓</td>
+    <td>Close page</td>
+  </tr>
+  <tr>
+    <td>→↑</td>
+    <td>Restore page</td>
+  </tr>
+  <tr>
+    <td>↓↑●</td>
+    <td>Open a new page</td>
+  </tr>
+  <tr>
+    <td>↑↓●</td>
+    <td>Hidden element</td>
+  </tr>
+  <tr>
+    <td>↓→</td>
+    <td>Duplicate page</td>
+  </tr>
+  <tr>
+    <td>→←→</td>
+    <td>Half screen mode</td>
+  </tr>
+  <tr>
+    <td>T→↑</td>
+    <td>Google translation</td>
+  </tr>
+  <tr>
+    <td>T←↑</td>
+    <td>YouTube search</td>
+  </tr>
+  <tr>
+    <td>T◆◆</td>
+    <td>Double click to search</td>
+  </tr>
+  <tr>
+    <td>I↓↑●</td>
+    <td>Open the picture</td>
+  </tr>
+  <tr>
+    <td>I→↑●</td>
+    <td>Google Image Search</td>
+  </tr>
+  <tr>
+    <td>V→</td>
+    <td>Forward 5s</td>
+  </tr>
+  <tr>
+    <td>V←</td>
+    <td>Back 5s</td>
+  </tr>
+  <tr>
+    <td>V↑</td>
+    <td>Increase double speed</td>
+  </tr>
+  <tr>
+    <td>V↓</td>
+    <td>Reduce double speed</td>
+  </tr>
+  <tr>
+    <td>V→●</td>
+    <td>Fast forward playback</td>
+  </tr>
+  <tr>
+    <td>V→○</td>
+    <td>Stop fast forward</td>
+  </tr>
+  <tr>
+    <td>V←●</td>
+    <td>Rewind playback</td>
+  </tr>
+  <tr>
+    <td>V←○</td>
+    <td>Stop rewinding</td>
+  </tr>
+  <tr>
+    <td>V↑●</td>
+    <td>Increase volume</td>
+  </tr>
+  <tr>
+    <td>V↑○</td>
+    <td>Close increase volume</td>
+  </tr>
+  <tr>
+    <td>V↓●</td>
+    <td>Volume down</td>
+  </tr>
+  <tr>
+    <td>V↓○</td>
+    <td>Close and reduce volume</td>
+  </tr>
+  <tr>
+    <td>V→▼</td>
+    <td>Swipe right progress</td>
+  </tr>
+  <tr>
+    <td>V→▽</td>
+    <td>Close right slide progress</td>
+  </tr>
+  <tr>
+    <td>V←▼</td>
+    <td>Left slide progress</td>
+  </tr>
+  <tr>
+    <td>V←▽</td>
+    <td>Close left slide progress</td>
+  </tr>
+</tbody>
+</table>
 
 <h2>
 Reset Settings
