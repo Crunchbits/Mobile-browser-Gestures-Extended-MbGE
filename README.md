@@ -73,6 +73,8 @@ Install preferred script version via [Greasy Fork links](https://github.com/Crun
 
 6. Slide the "↑→↓←" box gesture to open the [Gesture Track Setting] interface, and you can customize the gesture function  
 
+https://github.com/Crunchbits/Mobile-browser-Gestures-Extended-MbGE/assets/87384615/1e878387-132c-4b0e-a434-abfc6c810fc2
+
 
 7. You can click the title of "Gesture track setting" to open the "Function switch setting" interface  
 8. You can modify the settings however you like but can't delete the following:
