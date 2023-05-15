@@ -80,6 +80,7 @@ Install preferred script version via [Greasy Fork links](https://github.com/Crun
 <details>
   <summary><b>How to navigate settings ui:</b></summary>
   
+  (Open image in new tab or download image to zoom in)
   ![Translated Pictures Guide](https://github.com/Crunchbits/Mobile-browser-Gestures-Extended-MbGE/assets/87384615/9484af5e-4bce-40cb-83c7-64e2f375c95f)
 
 </details>
