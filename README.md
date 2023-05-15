@@ -77,6 +77,12 @@ Install preferred script version via [Greasy Fork links](https://github.com/Crun
   <video src="https://github.com/Crunchbits/Mobile-browser-Gestures-Extended-MbGE/assets/87384615/1e878387-132c-4b0e-a434-abfc6c810fc2"/>
 </div>
 
+<details>
+  <summary><b>How to navigate settings ui:</b></summary>
+  
+  ![Translated Pictures Guide](https://github.com/Crunchbits/Mobile-browser-Gestures-Extended-MbGE/assets/87384615/9484af5e-4bce-40cb-83c7-64e2f375c95f)
+
+</details>
 
 7. You can click the title of "Gesture track setting" to open the "Function switch setting" interface  
 8. You can modify the settings however you like but can't delete the following:
