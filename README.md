@@ -312,6 +312,39 @@ Gesture Icon Legend:
 </details>
 
 <h2>
+Gesture Functions/UI (MbGE)
+</h2>
+
+<h4>
+General:
+</h4>
+
+`Open Settings` `Video full screen` `Gesture Penetration`
+
+<h4>
+Navigation:
+</h4>
+
+`Back` `Forward` `Back to top` `Back to the bottom` `Refresh page` `New page` `Close page` `Restore page` `Open a new page` `Hidden element` `Duplicate page` `Half screen mode`
+
+<h4>
+Text/Image:
+</h4>
+
+`Google translation` `YouTube search` `Double click to search`  
+`Open the picture` `Google Image Search [NOT WORKING]`
+
+<h4>
+Video:
+</h4>
+
+`Forward 5s` `Back 5s`  
+`Increase double speed` `Reduce double speed`  
+`Fast forward playback` `Stop fast forward` `Rewind playback` `Stop rewinding`  
+`Increase volume` `Close increase volume` `Volume down` `Close and reduce volume`  
+`Swipe right progress` `Close right slide progress` `Left slide progress` `Close left slide progress`  
+
+<h2>
 Reset Settings
 </h2>
 
