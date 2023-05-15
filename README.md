@@ -150,9 +150,9 @@ Gesture Icon Legend:
 </tbody>
 </table>
 
-<h4>
-Default mapped gestures in MbGE:
-</h4>
+
+<details>
+  <summary><b>Default mapped gestures in MbGE:</b></summary>
 
 <table>
 <thead>
@@ -308,6 +308,8 @@ Default mapped gestures in MbGE:
   </tr>
 </tbody>
 </table>
+
+</details>
 
 <h2>
 Reset Settings
