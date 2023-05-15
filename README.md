@@ -157,7 +157,7 @@ Gesture Icon Legend:
 <table>
 <thead>
   <tr>
-    <th>Gesture</th>
+    <th>Gesture (36)</th>
     <th>Function</th>
   </tr>
 </thead>
@@ -311,6 +311,170 @@ Gesture Icon Legend:
 
 </details>
 
+<details>
+  <summary><b>Default mapped gestures in Original but English-translated:</b></summary>
+  
+  <table>
+<thead>
+  <tr>
+    <th>Gesture (37)</th>
+    <th>Function</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>↑→↓←</td>
+    <td>Open Settings</td>
+  </tr>
+  <tr>
+    <td>◆◆</td>
+    <td>Video full screen</td>
+  </tr>
+  <tr>
+    <td>●</td>
+    <td>Gesture Penetration</td>
+  </tr>
+  <tr>
+    <td>→←</td>
+    <td>Back</td>
+  </tr>
+  <tr>
+    <td>←→</td>
+    <td>Forward</td>
+  </tr>
+  <tr>
+    <td>↓↑</td>
+    <td>Back to top</td>
+  </tr>
+  <tr>
+    <td>↑↓</td>
+    <td>Back to the bottom</td>
+  </tr>
+  <tr>
+    <td>←↓</td>
+    <td>Refresh page</td>
+  </tr>
+  <tr>
+    <td>←↑</td>
+    <td>New page</td>
+  </tr>
+  <tr>
+    <td>→↓</td>
+    <td>Close page</td>
+  </tr>
+  <tr>
+    <td>→↑</td>
+    <td>Restore page</td>
+  </tr>
+  <tr>
+    <td>↓↑●</td>
+    <td>Open a new page</td>
+  </tr>
+  <tr>
+    <td>↑↓●</td>
+    <td>Hidden element</td>
+  </tr>
+  <tr>
+    <td>↓→</td>
+    <td>Duplicate page</td>
+  </tr>
+  <tr>
+    <td>→←→</td>
+    <td>Half screen mode</td>
+  </tr>
+  <tr>
+    <td>→↓↑←</td>
+    <td>Video analysis</td>
+  </tr>
+  <tr>
+    <td>T→↑</td>
+    <td>Baidu translation</td>
+  </tr>
+  <tr>
+    <td>T←↑</td>
+    <td>Youdao translation</td>
+  </tr>
+  <tr>
+    <td>T◆◆</td>
+    <td>Double click to search</td>
+  </tr>
+  <tr>
+    <td>I↓↑●</td>
+    <td>Open the picture</td>
+  </tr>
+  <tr>
+    <td>I→↑●</td>
+    <td>Baidu Search Picture</td>
+  </tr>
+  <tr>
+    <td>V→</td>
+    <td>Forward 10s</td>
+  </tr>
+  <tr>
+    <td>V←</td>
+    <td>Back 10s</td>
+  </tr>
+  <tr>
+    <td>V↑</td>
+    <td>Increase double speed</td>
+  </tr>
+  <tr>
+    <td>V↓</td>
+    <td>Reduce double speed</td>
+  </tr>
+  <tr>
+    <td>V→●</td>
+    <td>Fast forward playback</td>
+  </tr>
+  <tr>
+    <td>V→○</td>
+    <td>Stop fast forward</td>
+  </tr>
+  <tr>
+    <td>V←●</td>
+    <td>Rewind playback</td>
+  </tr>
+  <tr>
+    <td>V←○</td>
+    <td>Stop rewinding</td>
+  </tr>
+  <tr>
+    <td>V↑●</td>
+    <td>Increase volume</td>
+  </tr>
+  <tr>
+    <td>V↑○</td>
+    <td>Close increase volume</td>
+  </tr>
+  <tr>
+    <td>V↓●</td>
+    <td>Volume down</td>
+  </tr>
+  <tr>
+    <td>V↓○</td>
+    <td>Close and reduce volume</td>
+  </tr>
+  <tr>
+    <td>V→▼</td>
+    <td>Swipe right progress</td>
+  </tr>
+  <tr>
+    <td>V→▽</td>
+    <td>Close right slide progress</td>
+  </tr>
+  <tr>
+    <td>V←▼</td>
+    <td>Left slide progress</td>
+  </tr>
+  <tr>
+    <td>V←▽</td>
+    <td>Close left slide progress</td>
+  </tr>
+</tbody>
+</table>
+  
+</details>
+  
 <h2>
 Gesture Functions/UI (MbGE)
 </h2>
