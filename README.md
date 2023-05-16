@@ -37,7 +37,7 @@ VERSIONS
         <li>Changing Baidu translate to Google translate(Text Gesture)</li>
         <li>Changing Youdao translate to Youtube search(Text Gesture)</li>
         <li>Changing Bing search to Google search(Text Gesture)</li>
-        <li>Changing Image search with baidu maps to Image search with google search(Image Gesture) [NOT WORKING]</li>
+        <li>Changing Image search with baidu maps to Image search with google search(Image Gesture)</li>
         <li>Changing Video forward/backward 10 seconds to Video forward/backward 5 seconds(Video Gesture)</li>
         <li>Removed Video analysis function that opened videos in jx.jsonplayer site as it didn't work to begin with and I had no use for it.</li>
       </ul>
@@ -64,14 +64,12 @@ Install/Setup instructions
 </h2>
 
 1. Install Tampermonkey(or other extension like Greasemonkey, Violentmonkey, etc.)  
-2. Go to dashboard and create new script  
 3. Choose preferred script version based off of descriptions in [VERSIONS](https://github.com/Crunchbits/Mobile-browser-Gestures-Extended-MbGE#versions) table  
 Install preferred script version via [Greasy Fork links](https://github.com/Crunchbits/Mobile-browser-Gestures-Extended-MbGE#download-via-greasy-fork)   
 
-4. Save and ensure it's enabled  
-5. If testing on old tabs make sure to refresh them for script to run on it  
+4. If needed refresh old tabs for script to run on it  
 
-6. Slide the "↑→↓←" box gesture to open the [Gesture Track Setting] interface, and you can customize the gesture function  
+5. Slide the "↑→↓←" box gesture to open the [Gesture Track Setting] interface, and you can customize the gesture function  
 
 <div align="center">
   <video src="https://github.com/Crunchbits/Mobile-browser-Gestures-Extended-MbGE/assets/87384615/1e878387-132c-4b0e-a434-abfc6c810fc2"/>
@@ -85,13 +83,15 @@ Install preferred script version via [Greasy Fork links](https://github.com/Crun
 
 </details>
 
-7. You can click the title of "Gesture track setting" to open the "Function switch settings" interface  
-8. You can modify the settings however you like but can't delete the following:
+6. You can click the title of "Gesture track settings" to open the "Function switch settings" interface  
+7. You can modify the settings however you like but can't delete the following:
     - Open Settings  
-    - Video Full screen (must end with click)  
+    - Video Full screen  
     - Gesture Penetration  
 
-If wanted, use my custom settings from '[\MbGE\MyCustom_Settings1.jpg](https://github.com/Crunchbits/Mobile-browser-Gestures-Extended-MbGE/blob/main/MbGE/MyCustom_Settings1.jpg)' and '[\MbGE\MyCustom_Settings2.jpg](https://github.com/Crunchbits/Mobile-browser-Gestures-Extended-MbGE/blob/main/MbGE/MyCustom_Settings2.jpg)'
+After making changes to settings, if needed refresh old tabs to see applied changed.  
+
+If wanted, use my custom settings from '[\MbGE\MyCustom_Settings1.jpg](https://github.com/Crunchbits/Mobile-browser-Gestures-Extended-MbGE/blob/main/MbGE/MyCustom_Settings1.jpg)' and '[\MbGE\MyCustom_Settings2.jpg](https://github.com/Crunchbits/Mobile-browser-Gestures-Extended-MbGE/blob/main/MbGE/MyCustom_Settings2.jpg)'.
 
 <h4>
 Gesture Icon Legend:
