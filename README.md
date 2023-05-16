@@ -89,7 +89,7 @@ Install preferred script version via [Greasy Fork links](https://github.com/Crun
     - Video Full screen  
     - Gesture Penetration  
 
-After making changes to settings, if needed refresh old tabs to see applied changed.  
+After making changes to settings, if needed refresh old tabs to see applied changes.  
 
 If wanted, use my custom settings from '[\MbGE\MyCustom_Settings1.jpg](https://github.com/Crunchbits/Mobile-browser-Gestures-Extended-MbGE/blob/main/MbGE/MyCustom_Settings1.jpg)' and '[\MbGE\MyCustom_Settings2.jpg](https://github.com/Crunchbits/Mobile-browser-Gestures-Extended-MbGE/blob/main/MbGE/MyCustom_Settings2.jpg)'.
 
