@@ -524,3 +524,22 @@ Video:
 `Fast forward playback` `Stop fast forward` `Rewind playback` `Stop rewinding`  
 `Increase volume` `Close increase volume` `Volume down` `Close and reduce volume`  
 `Swipe right progress` `Close right slide progress` `Left slide progress` `Close left slide progress`  
+
+<h2>
+Known Issues
+</h2>
+
+<h4>
+Issues:
+</h4>
+
+- If Image gestures is on, long press on images won't show regular context menu.
+- Video fullscreen function will work even if video gestures is disabled.
+  - This may be resolvable by turning the function into a video gesture by manually adding the a "V" to the `'◆◆': 'Video full screen',` line in the script. But this has not been tested and may not work or break certain functionality.
+- Breaks tap and slide up/down to zoom functionality when in desktop mode
+
+<h4>
+Quirks:
+</h4>
+
+- Slide up/down gestures on videos will only trigger if video is fullscreen. Although this is probably for the best.
