@@ -483,12 +483,12 @@ Gesture Icon Legend:
 </details>
  
 <details>
-  <summary><b>How to reset settings</b></summary>
+  <summary><b>How to reset to default settings</b></summary>
 
 Even if you replace the script text with the initial script text, the old settings will probably stick.  
 This is because the script is still holding onto it's storage content.  
 
-The easiest way to remove the old settings is to delete the script with the trash bin icon or File/Remove and then reinstall the initial script.  
+The easiest way to remove the old settings is to go to Tampermonkey's dashboard and delete the script with the trash bin icon or File/Remove and then reinstall the initial script.  
   
 </details>
  
