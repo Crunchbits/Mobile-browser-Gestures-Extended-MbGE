@@ -108,15 +108,15 @@ Gesture Icon Legend:
 <tbody>
   <tr>
     <td>T</td>
-    <td>Text Gesture</td>
+    <td>Text gesture</td>
   </tr>
   <tr>
     <td>I</td>
-    <td>Image Gesture</td>
+    <td>Image gesture</td>
   </tr>
   <tr>
     <td>V</td>
-    <td>Video Gesture</td>
+    <td>Video gesture</td>
   </tr>
   <tr>
     <td>↑</td>
