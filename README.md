@@ -546,3 +546,40 @@ Quirks:
 </h4>
 
 - Slide up/down gestures on videos will only trigger if video is fullscreen. Although this is probably for the best.
+
+
+
+<h2>
+Other Recommendations
+</h2>
+
+While MbGE is a powerful tool, sometimes having to remember too many gestures can be a hassle or an inconvenience. Or perhaps you wish you could access some shortcuts faster in a tap of a button instead of a more convoluted gesture combination. For this reason I use MbGE in combination with 2 other chromium extensions designed for mobile browsers:
+- [Mobile Toolbar For Kiwi Browser](https://github.com/butaixianran/Mobile-Toolbar-For-Kiwi-Browser) (Open Source)
+- [Floatly](https://github.com/d3ward/floatly) (Open Source)
+
+Both of these can work well by themselves and have some of the shortcuts that MbGE has (Floaty in particular has a few different shortcuts that are not in MbGE). They both have their strengths and while I won't be fully documenting all their features here, I have made a video showcasing <b>SOME</b> of their features (Floaty in particular has way more features than I showcased). I recommend checking both of them out via the links above. The video below is how I use both extensions together in Kiwi Browser:
+
+<details>
+  <summary><b>Click here to see video:</b></summary>
+
+<p align="left">
+  <img src="https://github.com/Crunchbits/Mobile-browser-Gestures-Extended-MbGE/assets/87384615/7898c09f-1577-4927-aa8d-495a303dd539" alt="Image of Mobile Toolbar For Kiwi Browser" width="150">
+  ← This is Mobile Toolbar For Kiwi Browser.
+</p>
+  
+<p align="left">
+  <img src="https://github.com/Crunchbits/Mobile-browser-Gestures-Extended-MbGE/assets/87384615/4efaeb75-3418-4344-ab26-cfa821831e17" alt="Image of Floaty" width="150">
+  ← This is Floaty (I positioned it to lay on top of Mobile Toolbar For Kiwi Browser' refresh button).
+</p>
+  
+<p align="left">
+  <img src="https://github.com/Crunchbits/Mobile-browser-Gestures-Extended-MbGE/assets/87384615/b708ca08-7650-49a5-b224-8654287b9950" alt="Image of Mobile Toolbar For Kiwi Browser + Floaty" width="150">
+  ← This is both of the extensions together.
+</p>
+  
+
+<div align="center">
+  <video src="https://github.com/Crunchbits/Mobile-browser-Gestures-Extended-MbGE/assets/87384615/459944c9-2dcb-473e-84ff-a466ef3ed867"/>
+</div>
+
+</details>
