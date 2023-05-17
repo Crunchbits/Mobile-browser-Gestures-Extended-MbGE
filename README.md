@@ -501,30 +501,30 @@ Gesture Functions/UI (MbGE)
 General:
 </h4>
 
-`Open Settings` `Video full screen` `Gesture Penetration`
+`Open settings` `Video full screen` `Gesture penetration`
 
 <h4>
 Navigation:
 </h4>
 
-`Back` `Forward` `Back to top` `Back to the bottom` `Refresh page` `New page` `Close page` `Restore page` `Open a new page` `Hidden element` `Duplicate page` `Half screen mode`
+`Back` `Forward` `Back to top` `Back to bottom` `Refresh page` `New page` `Close page` `Restore page` `Open in new page` `Hide element` `Duplicate page` `Half screen mode`
 
 <h4>
 Text/Image:
 </h4>
 
-`Google translation` `YouTube search` `Double click to search`  
-`Open the picture` `Google Image Search [NOT WORKING]`
+`Google translate` `YouTube search` `Query search`  
+`Open image source` `Google image search`
 
 <h4>
 Video:
 </h4>
 
 `Forward 5s` `Back 5s`  
-`Increase double speed` `Reduce double speed`  
-`Fast forward playback` `Stop fast forward` `Rewind playback` `Stop rewinding`  
-`Increase volume` `Close increase volume` `Volume down` `Close and reduce volume`  
-`Swipe right progress` `Close right slide progress` `Left slide progress` `Close left slide progress`  
+`Increase speed` `Decrease speed`  
+`Fast forward playback` `Release fast forwarding` `Rewind playback` `Release rewinding`  
+`Volume increase` `Release volume increase` `Volume decrease` `Release volume decrease`  
+`Progress` `Release progress` `Regress` `Release regress`  
 
 <h2>
 Known Issues
