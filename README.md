@@ -61,7 +61,7 @@ or
 
 
 <h2>
-Install/Setup instructions
+Install/Setup Instructions
 </h2>
 
 1. Install Tampermonkey(or other extension like Greasemonkey, Violentmonkey, etc.)  
