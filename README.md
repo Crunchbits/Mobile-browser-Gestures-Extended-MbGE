@@ -64,7 +64,8 @@ or
 Install/Setup instructions
 </h2>
 
-1. Install Tampermonkey(or other extension like Greasemonkey, Violentmonkey, etc.)  
+1. Install Tampermonkey extension(or other userscript managers like Greasemonkey, Violentmonkey, etc.)  
+    - If comfortable with it, I recommend turning on "Allow access to file URLs" for best experience as it will allow the script to work on more pages and on built-in chrome video player. On chromium browsers this can be done by going to extensions via 'chrome://extensions' url in address bar, then go to Tampermonkey(or userscript manager of choice) Details and toggle on "Allow access to file URLs".
 3. Choose preferred script version based off of descriptions in [VERSIONS](https://github.com/Crunchbits/Mobile-browser-Gestures-Extended-MbGE#versions) table  
 Install preferred script version via [Greasy Fork links](https://github.com/Crunchbits/Mobile-browser-Gestures-Extended-MbGE#download-via-greasy-fork)   
 
