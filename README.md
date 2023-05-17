@@ -507,7 +507,8 @@ General:
 Navigation:
 </h4>
 
-`Back` `Forward` `Back to top` `Back to bottom` `Refresh page` `New page` `Close page` `Restore page` `Open in new page` `Hide element` `Duplicate page` `Half screen mode`
+`Back` `Forward` `Back to top` `Back to bottom` `Refresh page`  
+`New page` `Close page` `Restore page` `Open in new page` `Hide element` `Duplicate page` `Half screen mode`
 
 <h4>
 Text/Image:
