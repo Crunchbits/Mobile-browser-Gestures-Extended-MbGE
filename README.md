@@ -136,23 +136,23 @@ Gesture Icon Legend:
   </tr>
   <tr>
     <td>◆</td>
-    <td> Click, trigger after clicking</td>
+    <td> Click, triggers after clicking</td>
   </tr>
   <tr>
     <td>●</td>
-    <td>Long press, trigger when long press</td>
+    <td>Long press, triggers during long press</td>
   </tr>
   <tr>
     <td>○</td>
-    <td>Trigger corresponding ● gesture, trigger after lifting</td>
+    <td>Lift corresponding ● gesture, triggers after lifting</td>
   </tr>
   <tr>
     <td>▼</td>
-    <td>Delay swipe continuously in the same direction, trigger when sliding</td>
+    <td>Lengthy slide in the same direction, triggers after 400ms of continuous sliding</td>
   </tr>
   <tr>
     <td>▽</td>
-    <td>After triggering the corresponding ▼ gesture, trigger after lifting</td>
+    <td>Lift corresponding ▼ gesture, triggers after lifting</td>
   </tr>
 </tbody>
 </table>
