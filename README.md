@@ -92,7 +92,7 @@ Install preferred script version via [Greasy Fork links](https://github.com/Crun
 
 After making changes to settings, if needed refresh old tabs to see applied changes.  
 
-If wanted, use my custom settings from '[\MbGE\MyCustom_Settings1.jpg](https://github.com/Crunchbits/Mobile-browser-Gestures-Extended-MbGE/blob/main/MbGE/MyCustom_Settings1.jpg)' and '[\MbGE\MyCustom_Settings2.jpg](https://github.com/Crunchbits/Mobile-browser-Gestures-Extended-MbGE/blob/main/MbGE/MyCustom_Settings2.jpg)'.
+If wanted, use my custom settings from '[\MbGE\MyCustom_Settings_1.jpg](https://github.com/Crunchbits/Mobile-browser-Gestures-Extended-MbGE/blob/main/MbGE/MyCustom_Settings_1.jpg)' and '[\MbGE\MyCustom_Settings_2.jpg](https://github.com/Crunchbits/Mobile-browser-Gestures-Extended-MbGE/blob/main/MbGE/MyCustom_Settings_2.jpg)'.
 
 <h4>
 Gesture Icon Legend:
