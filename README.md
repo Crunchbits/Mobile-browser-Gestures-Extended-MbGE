@@ -534,9 +534,10 @@ Issues:
 </h4>
 
 - If Image gestures is on, long press on images won't show regular context menu.
+- Even if configured without it, image gestures always start with `Gesture Penetration`(Default is long press) and so will require it at first to get image gestures triggered.
 - Video fullscreen function will work even if video gestures is disabled.
   - This may be resolvable by turning the function into a video gesture by manually adding the a "V" to the `'◆◆': 'Video full screen',` line in the script. But this has not been tested and may not work or break certain functionality.
-- Breaks tap and slide up/down to zoom functionality when in desktop mode
+- Breaks tap and slide up/down to zoom functionality when in desktop mode.
 
 <h4>
 Quirks:
