@@ -172,7 +172,7 @@ Gesture Icon Legend:
 <tbody>
   <tr>
     <td>↑→↓←</td>
-    <td>Open Settings</td>
+    <td>Open settings</td>
   </tr>
   <tr>
     <td>◆◆</td>
@@ -180,7 +180,7 @@ Gesture Icon Legend:
   </tr>
   <tr>
     <td>●</td>
-    <td>Gesture Penetration</td>
+    <td>Gesture penetration</td>
   </tr>
   <tr>
     <td>→←</td>
@@ -196,7 +196,7 @@ Gesture Icon Legend:
   </tr>
   <tr>
     <td>↑↓</td>
-    <td>Back to the bottom</td>
+    <td>Back to bottom</td>
   </tr>
   <tr>
     <td>←↓</td>
@@ -216,11 +216,11 @@ Gesture Icon Legend:
   </tr>
   <tr>
     <td>↓↑●</td>
-    <td>Open a new page</td>
+    <td>Open in new page</td>
   </tr>
   <tr>
     <td>↑↓●</td>
-    <td>Hidden element</td>
+    <td>Hide element</td>
   </tr>
   <tr>
     <td>↓→</td>
@@ -232,7 +232,7 @@ Gesture Icon Legend:
   </tr>
   <tr>
     <td>T→↑</td>
-    <td>Google translation</td>
+    <td>Google translate</td>
   </tr>
   <tr>
     <td>T←↑</td>
@@ -240,15 +240,15 @@ Gesture Icon Legend:
   </tr>
   <tr>
     <td>T◆◆</td>
-    <td>Double click to search</td>
+    <td>Query search</td>
   </tr>
   <tr>
     <td>I↓↑●</td>
-    <td>Open the picture</td>
+    <td>Open image source</td>
   </tr>
   <tr>
     <td>I→↑●</td>
-    <td>Google Image Search [NOT WORKING]</td>
+    <td>Google image search</td>
   </tr>
   <tr>
     <td>V→</td>
@@ -260,11 +260,11 @@ Gesture Icon Legend:
   </tr>
   <tr>
     <td>V↑</td>
-    <td>Increase double speed</td>
+    <td>Increase speed</td>
   </tr>
   <tr>
     <td>V↓</td>
-    <td>Reduce double speed</td>
+    <td>Decrease speed</td>
   </tr>
   <tr>
     <td>V→●</td>
@@ -272,7 +272,7 @@ Gesture Icon Legend:
   </tr>
   <tr>
     <td>V→○</td>
-    <td>Stop fast forward</td>
+    <td>Release fast forwarding</td>
   </tr>
   <tr>
     <td>V←●</td>
@@ -280,39 +280,39 @@ Gesture Icon Legend:
   </tr>
   <tr>
     <td>V←○</td>
-    <td>Stop rewinding</td>
+    <td>Release rewinding</td>
   </tr>
   <tr>
     <td>V↑●</td>
-    <td>Increase volume</td>
+    <td>Volume increase</td>
   </tr>
   <tr>
     <td>V↑○</td>
-    <td>Close increase volume</td>
+    <td>Release volume increase</td>
   </tr>
   <tr>
     <td>V↓●</td>
-    <td>Volume down</td>
+    <td>Volume decrease</td>
   </tr>
   <tr>
     <td>V↓○</td>
-    <td>Close and reduce volume</td>
+    <td>Release volume decrease</td>
   </tr>
   <tr>
     <td>V→▼</td>
-    <td>Swipe right progress</td>
+    <td>Progress</td>
   </tr>
   <tr>
     <td>V→▽</td>
-    <td>Close right slide progress</td>
+    <td>Release progress</td>
   </tr>
   <tr>
     <td>V←▼</td>
-    <td>Left slide progress</td>
+    <td>Regress</td>
   </tr>
   <tr>
     <td>V←▽</td>
-    <td>Close left slide progress</td>
+    <td>Release regress</td>
   </tr>
 </tbody>
 </table>
@@ -332,7 +332,7 @@ Gesture Icon Legend:
 <tbody>
   <tr>
     <td>↑→↓←</td>
-    <td>Open Settings</td>
+    <td>Open settings</td>
   </tr>
   <tr>
     <td>◆◆</td>
@@ -340,7 +340,7 @@ Gesture Icon Legend:
   </tr>
   <tr>
     <td>●</td>
-    <td>Gesture Penetration</td>
+    <td>Gesture penetration</td>
   </tr>
   <tr>
     <td>→←</td>
@@ -356,7 +356,7 @@ Gesture Icon Legend:
   </tr>
   <tr>
     <td>↑↓</td>
-    <td>Back to the bottom</td>
+    <td>Back to bottom</td>
   </tr>
   <tr>
     <td>←↓</td>
@@ -376,11 +376,11 @@ Gesture Icon Legend:
   </tr>
   <tr>
     <td>↓↑●</td>
-    <td>Open a new page</td>
+    <td>Open in new page</td>
   </tr>
   <tr>
     <td>↑↓●</td>
-    <td>Hidden element</td>
+    <td>Hide element</td>
   </tr>
   <tr>
     <td>↓→</td>
@@ -392,27 +392,27 @@ Gesture Icon Legend:
   </tr>
   <tr>
     <td>→↓↑←</td>
-    <td>Video analysis</td>
+    <td>Analyze video</td>
   </tr>
   <tr>
     <td>T→↑</td>
-    <td>Baidu translation</td>
+    <td>Baidu translate</td>
   </tr>
   <tr>
     <td>T←↑</td>
-    <td>Youdao translation</td>
+    <td>Youdao translate</td>
   </tr>
   <tr>
     <td>T◆◆</td>
-    <td>Double click to search</td>
+    <td>Query search</td>
   </tr>
   <tr>
     <td>I↓↑●</td>
-    <td>Open the picture</td>
+    <td>Open image source</td>
   </tr>
   <tr>
     <td>I→↑●</td>
-    <td>Baidu Search Picture</td>
+    <td>Baidu image search</td>
   </tr>
   <tr>
     <td>V→</td>
@@ -424,11 +424,11 @@ Gesture Icon Legend:
   </tr>
   <tr>
     <td>V↑</td>
-    <td>Increase double speed</td>
+    <td>Increase speed</td>
   </tr>
   <tr>
     <td>V↓</td>
-    <td>Reduce double speed</td>
+    <td>Decrease speed</td>
   </tr>
   <tr>
     <td>V→●</td>
@@ -436,7 +436,7 @@ Gesture Icon Legend:
   </tr>
   <tr>
     <td>V→○</td>
-    <td>Stop fast forward</td>
+    <td>Release fast forwarding</td>
   </tr>
   <tr>
     <td>V←●</td>
@@ -444,39 +444,39 @@ Gesture Icon Legend:
   </tr>
   <tr>
     <td>V←○</td>
-    <td>Stop rewinding</td>
+    <td>Release rewinding</td>
   </tr>
   <tr>
     <td>V↑●</td>
-    <td>Increase volume</td>
+    <td>Volume increase</td>
   </tr>
   <tr>
     <td>V↑○</td>
-    <td>Close increase volume</td>
+    <td>Release volume increase</td>
   </tr>
   <tr>
     <td>V↓●</td>
-    <td>Volume down</td>
+    <td>Volume decrease</td>
   </tr>
   <tr>
     <td>V↓○</td>
-    <td>Close and reduce volume</td>
+    <td>Release volume decrease</td>
   </tr>
   <tr>
     <td>V→▼</td>
-    <td>Swipe right progress</td>
+    <td>Progress</td>
   </tr>
   <tr>
     <td>V→▽</td>
-    <td>Close right slide progress</td>
+    <td>Release progress</td>
   </tr>
   <tr>
     <td>V←▼</td>
-    <td>Left slide progress</td>
+    <td>Regress</td>
   </tr>
   <tr>
     <td>V←▽</td>
-    <td>Close left slide progress</td>
+    <td>Release regress</td>
   </tr>
 </tbody>
 </table>
