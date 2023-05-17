@@ -86,9 +86,9 @@ Install preferred script version via [Greasy Fork links](https://github.com/Crun
 
 6. You can click the title of "Gesture track settings" to open the "Function switch settings" interface  
 7. You can modify the settings however you like but can't delete the following:
-    - Open Settings  
-    - Video Full screen  
-    - Gesture Penetration  
+    - Open settings  
+    - Video full screen  
+    - Gesture penetration  
 
 After making changes to settings, if needed refresh old tabs to see applied changes.  
 
