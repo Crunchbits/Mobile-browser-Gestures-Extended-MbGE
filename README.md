@@ -34,12 +34,13 @@ VERSIONS
   <tr>
     <td>Custom Modifications include:
       <ul>
-        <li>Changing Baidu translate to Google translate(Text Gesture)</li>
-        <li>Changing Youdao translate to Youtube search(Text Gesture)</li>
-        <li>Changing Bing search to Google search(Text Gesture)</li>
-        <li>Changing Image search with baidu maps to Image search with google search(Image Gesture)</li>
-        <li>Changing Video forward/backward 10 seconds to Video forward/backward 5 seconds(Video Gesture)</li>
-        <li>Removed Video analysis function that opened videos in jx.jsonplayer site as it didn't work to begin with and I had no use for it.</li>
+        <li>Changing New page from Limestart.cn to Chrome://newtab</li>
+        <li>Changing Baidu translate to Google translate(Text gesture)</li>
+        <li>Changing Youdao translate to Youtube search(Text gesture)</li>
+        <li>Changing Query search from Bing search to Google search(Text gesture)</li>
+        <li>Changing Baidu image search to Google image search(Image gesture)</li>
+        <li>Changing Video forward/backward 10 seconds to Video forward/backward 5 seconds(Video gesture)</li>
+        <li>Removed Analyze video function that opened videos in jx.jsonplayer site as it didn't work to begin with and I had no use for it.</li>
       </ul>
     </td>
     <td></td>
